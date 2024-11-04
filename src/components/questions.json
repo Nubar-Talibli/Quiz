@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary purpose of education?",
+            "options": [
+                "To earn money",
+                "To gain knowledge",
+                "To socialize",
+                "To travel"
+            ],
+            "answer": "To gain knowledge"
+        },
+        {
+            "question": "What is a common goal of all countries?",
+            "options": [
+                "To compete with each other",
+                "To promote peace",
+                "To increase military power",
+                "To raise taxes"
+            ],
+            "answer": "To promote peace"
+        },
+        {
+            "question": "Which is a basic human right?",
+            "options": [
+                "Access to clean water",
+                "Owning a car",
+                "Traveling abroad",
+                "Having a smartphone"
+            ],
+            "answer": "Access to clean water"
+        },
+        {
+            "question": "What does 'diversity' refer to?",
+            "options": [
+                "Having many languages",
+                "Variety of people and cultures",
+                "Different food types",
+                "Various types of animals"
+            ],
+            "answer": "Variety of people and cultures"
+        },
+        {
+            "question": "What is a major environmental issue?",
+            "options": [
+                "Littering",
+                "Overpopulation",
+                "Climate change",
+                "Fashion trends"
+            ],
+            "answer": "Climate change"
+        },
+        {
+            "question": "What is the role of governments?",
+            "options": [
+                "To entertain people",
+                "To provide public services",
+                "To control personal lives",
+                "To promote only businesses"
+            ],
+            "answer": "To provide public services"
+        },
+        {
+            "question": "What is an important aspect of a healthy society?",
+            "options": [
+                "Crime prevention",
+                "Strict laws",
+                "Limited communication",
+                "High taxes"
+            ],
+            "answer": "Crime prevention"
+        },
+        {
+            "question": "What does 'sustainability' mean?",
+            "options": [
+                "Using resources quickly",
+                "Meeting present needs without harming future generations",
+                "Maximizing profits",
+                "Ignoring environmental impacts"
+            ],
+            "answer": "Meeting present needs without harming future generations"
+        },
+        {
+            "question": "What is one way to promote peace?",
+            "options": [
+                "Encouraging conflicts",
+                "Building friendships",
+                "Isolating countries",
+                "Increasing weapons"
+            ],
+            "answer": "Building friendships"
+        },
+        {
+            "question": "What is an essential service provided by governments?",
+            "options": [
+                "Entertainment",
+                "Public health",
+                "Luxury items",
+                "Fashion advice"
+            ],
+            "answer": "Public health"
+        }
+    ]
+}
